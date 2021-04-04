@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.d4d64866.chunk.js",
-    "main.js.map": "/static/js/main.d4d64866.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fef8fb4a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fef8fb4a.js.map",
-    "static/js/2.e33107be.chunk.js": "/static/js/2.e33107be.chunk.js",
-    "static/js/2.e33107be.chunk.js.map": "/static/js/2.e33107be.chunk.js.map",
-    "static/js/3.3f329e7b.chunk.js": "/static/js/3.3f329e7b.chunk.js",
-    "static/js/3.3f329e7b.chunk.js.map": "/static/js/3.3f329e7b.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.e33107be.chunk.js.LICENSE.txt": "/static/js/2.e33107be.chunk.js.LICENSE.txt",
-    "static/media/loader.11562bdd.gif": "/static/media/loader.11562bdd.gif"
+    "main.css": "https://amitsrivastava4all.github.io/shopdemo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://amitsrivastava4all.github.io/shopdemo/static/js/main.d4d64866.chunk.js",
+    "main.js.map": "https://amitsrivastava4all.github.io/shopdemo/static/js/main.d4d64866.chunk.js.map",
+    "runtime-main.js": "https://amitsrivastava4all.github.io/shopdemo/static/js/runtime-main.4cbe4dba.js",
+    "runtime-main.js.map": "https://amitsrivastava4all.github.io/shopdemo/static/js/runtime-main.4cbe4dba.js.map",
+    "static/js/2.e33107be.chunk.js": "https://amitsrivastava4all.github.io/shopdemo/static/js/2.e33107be.chunk.js",
+    "static/js/2.e33107be.chunk.js.map": "https://amitsrivastava4all.github.io/shopdemo/static/js/2.e33107be.chunk.js.map",
+    "static/js/3.3f329e7b.chunk.js": "https://amitsrivastava4all.github.io/shopdemo/static/js/3.3f329e7b.chunk.js",
+    "static/js/3.3f329e7b.chunk.js.map": "https://amitsrivastava4all.github.io/shopdemo/static/js/3.3f329e7b.chunk.js.map",
+    "index.html": "https://amitsrivastava4all.github.io/shopdemo/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://amitsrivastava4all.github.io/shopdemo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e33107be.chunk.js.LICENSE.txt": "https://amitsrivastava4all.github.io/shopdemo/static/js/2.e33107be.chunk.js.LICENSE.txt",
+    "static/media/loader.11562bdd.gif": "https://amitsrivastava4all.github.io/shopdemo/static/media/loader.11562bdd.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.fef8fb4a.js",
+    "static/js/runtime-main.4cbe4dba.js",
     "static/js/2.e33107be.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.d4d64866.chunk.js"
